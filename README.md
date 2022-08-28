@@ -1,5 +1,5 @@
 # Prerequisites :
-- you will need web server like XAMPP (try ti install a new version because I'm using Laravel v8.83.23 ) .
+- you will need web server like XAMPP (try to install a new version because I'm using Laravel v8.83.23 ) .
 - source code editor like visula studio code .
 - API platform like Postman to test apis .
 
